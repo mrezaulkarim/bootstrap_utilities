@@ -1,0 +1,35 @@
+section {
+	margin: 20px 0;
+}
+h1 {
+	text-align: center;
+}
+.box, .box1, .box2 {
+	min-height: 100px;
+	background: #F5F5F5;
+}
+.box2 {
+	width: 100px;
+	text-align: center;
+}
+.box3 {
+	width: 150px;
+}
+.box4 {
+	width: 150px;
+	height: 100px;
+	background: #F5F5F5;
+}
+.borders {
+	margin: 50px 0;
+}
+.f_box {
+	background: #E6E2EB;
+}
+.footer {
+	text-align: center;
+}
+.footer a {
+	color: #000;
+	text-decoration: none;
+}
